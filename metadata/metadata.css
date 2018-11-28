@@ -1,0 +1,37 @@
+/*
+* Caitlin Donnelly
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+     background-color: lightblue;
+     color: black;
+     font-family: "Courier New", Courier, monospace; 
+}
+
+h1 {
+    font-size: 280% ;
+    text-align: center ; 
+    text-transform: uppercase;
+    text-decoration: underline overline;
+    background-color:cornflowerblue ;
+}
+
+p {
+    background-color: white ;
+    color: blue;
+}
+#dapperdog {width: 180px; height: 220px; float: right;}
+#CuteDog { width: 180px; height: 220px; float: center}
+header { background-color: pink; }
+main { background-color: mediumpurple; }
+footer { background-color:skyblue; }
